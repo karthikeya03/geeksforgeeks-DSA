@@ -105,7 +105,7 @@ switch(expression) {
   default:
     // code block
 }
-
+```
 
 ### Summary
 1. Comparison operators compare values in a Boolean expression.

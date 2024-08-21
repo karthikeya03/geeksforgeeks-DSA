@@ -102,7 +102,7 @@
 5. `if` statements control the flow of logic in a program.
 6. `if` statements can have multiple `else if` clauses and an optional `else` clause.
 7. Nested `if` statements allow more complex logic.
-8. The conditional operator (`?:`) simplifies `if-else` statements.
+8. The conditional operator (`?:`) simplifies `if-else` statements. (`(a>b)?a:b;`)
 9. `Switch` statements compare a variable to multiple values, using `case` and `default` labels.
 10. Use `break` to exit a `switch` case; otherwise, control moves to the next case.
 11. `Switch` statements can make code easier to read but are less flexible than `if` statements.

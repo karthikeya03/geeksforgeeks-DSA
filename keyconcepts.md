@@ -94,6 +94,19 @@
 6. **Nesting If Statements**: Placing an `if` statement inside another `if` statement.
 7. **Switch Statement**: A statement that checks a variable against multiple values.
 
+```cpp
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+
+
 ### Summary
 1. Comparison operators compare values in a Boolean expression.
 2. Logical operators combine Boolean expressions to form complex conditions.
